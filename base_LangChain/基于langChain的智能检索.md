@@ -36,7 +36,7 @@
 
 下面是 RAG 工作流程的示意图：
 
-![e2f5e14f10f54e489e8c885478fb4629](C:\Users\zhangwenchao\Desktop\学习\对话情绪识别\base_LangChain\基于langChain的智能检索照片\e2f5e14f10f54e489e8c885478fb4629.png)
+![e2f5e14f10f54e489e8c885478fb4629](./基于langChain的智能检索照片/e2f5e14f10f54e489e8c885478fb4629.png)
 
 检索增强生成的工作流程：
 
@@ -179,4 +179,4 @@ print(rag_chain.invoke(query))
 
 我们可以看到基于这个示例生成的 RAG 管道，如下所示：
 
-![fb65a7aafdfb415db14c85d30673f511](C:\Users\zhangwenchao\Desktop\学习\对话情绪识别\base_LangChain\基于langChain的智能检索照片\fb65a7aafdfb415db14c85d30673f511.png)
+![fb65a7aafdfb415db14c85d30673f511](./基于langChain的智能检索照片/fb65a7aafdfb415db14c85d30673f511.png)
