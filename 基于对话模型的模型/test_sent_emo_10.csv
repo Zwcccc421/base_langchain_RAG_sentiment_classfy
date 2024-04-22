@@ -1,0 +1,89 @@
+Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID
+1,Why do all you?re coffee mugs have numbers on the bottom?,Mark,surprise,positive,0,0
+2,"Oh. That?s so Monica can keep track. That way if one on them is missing, she can be like, ?Where?s number 27?!?",Rachel,anger,negative,0,1
+3,Y'know what?,Rachel,neutral,neutral,0,2
+19,"Come on, Lydia, you can do it.",Joey,neutral,neutral,1,0
+20,Push!,Joey,joy,positive,1,1
+21,"Push 'em out, push 'em out, harder, harder.",Joey,joy,positive,1,2
+22,"Push 'em out, push 'em out, way out!",Joey,joy,positive,1,3
+23,"Let's get that ball and really move, hey, hey, ho, ho.",Joey,joy,positive,1,4
+24,"Let's?  I was just?yeah, right.",Joey,joy,positive,1,5
+25,Push!,Joey,joy,positive,1,6
+26,Push!,Joey,joy,positive,1,7
+27,Okay.,Ross,neutral,neutral,2,0
+28,"Ross, didn't you say that there was an elevator in here?",Rachel,neutral,neutral,2,1
+29,"Uhh, yes I did but there isn't. Okay, here we go.",Ross,sadness,negative,2,2
+30,"Okay, go left. Left! Left!",Ross,surprise,negative,2,3
+31,"Okay, y'know what? There is no more left, left!",Rachel,anger,negative,2,4
+32,"Oh okay, lift it straight up over your head!",Ross,anger,negative,2,5
+33,Straight up over your head!,Ross,anger,negative,2,6
+34,You can do it!,Ross,joy,positive,2,7
+35,You can do it!,Ross,joy,positive,2,8
+36,Okay.,Ross,neutral,neutral,2,9
+37,You got it?,Ross,neutral,neutral,2,10
+38,"Oh, okay, I get it.",Steve,neutral,neutral,3,0
+39,"No wait, look. Look! I'm sorry, it's just I've never even",Ross,fear,negative,3,1
+40,Howard's the,Steve,neutral,neutral,3,2
+41,"Yes but too me he's just, man.",Ross,neutral,neutral,3,3
+42,"Okay, fine, whatever. Welcome to the building.",Steve,anger,negative,3,4
+43,"Ugh, can you believe that guy!",Ross,disgust,negative,3,5
+44,Yeah. I really like his glasses.,Phoebe,neutral,neutral,3,6
+45,Ohh!,Phoebe,surprise,positive,4,0
+46,What?,Monica,neutral,neutral,4,1
+47,It kicked! I think the baby kicked!,Phoebe,surprise,positive,4,2
+48,Oh my God!,Monica,surprise,positive,4,3
+49,"Oh no wait, oh no, the elastic on my underwear busted.",Phoebe,neutral,neutral,4,4
+50,Oh my God! I overslept! I was supposed to be on the set a half an hour ago! I gotta get out of here!,Joey,fear,negative,4,5
+51,"Oh wait, Joey, you can?t go like that! You stink!",Monica,disgust,negative,4,6
+52,"Look, I know I feel asleep before I could shower and now I don?t have time!",Joey,anger,negative,4,7
+53,"They?re just ten blocks away, if I run, I can make it.",Joey,neutral,neutral,4,8
+54,You?re coming on to the entire room!  I?m Chandler.,Chandler,anger,negative,5,0
+55,Hi.,Chandler,neutral,neutral,5,1
+56,Hi.,Marjorie,neutral,neutral,5,2
+57,You mind if I,Chandler,neutral,neutral,5,3
+58,"No, please.",Marjorie,neutral,neutral,5,4
+59,"So uh, what are you in for?",Chandler,neutral,neutral,5,5
+60,I talk in my sleep.,Marjorie,neutral,neutral,5,6
+61,"What a coincidence, I listen in my sleep.",Chandler,neutral,neutral,5,7
+62,So why don?t you give me your number?,Joey,neutral,neutral,5,8
+63,Previously on Friends.,Joey,neutral,neutral,6,0
+64,I don?t know exactly. It?s-it?s sorta like wrestling.,Monica,neutral,neutral,6,1
+65,Oh?!,Phoebe,surprise,negative,6,2
+66,"Yeah, but without the costumes.",Monica,neutral,neutral,7,0
+67,Oh.,Phoebe,neutral,neutral,7,1
+68,"And it?s not fake, it?s totally brutal.",Joey,neutral,neutral,7,2
+69,"Yeah, it?s two guys in a ring, and the rules are: ?They?re",Chandler,neutral,neutral,7,3
+70,"So you can like, bite, and pull people?s hair and stuff?",Monica,surprise,negative,7,4
+71,"Yeah, anything goes, except ah, eye gouging and fish hooking.",Ross,neutral,neutral,7,5
+72,What?s fish hooking?,Monica,surprise,negative,7,6
+73,"Huh, what?s fish hooking...   Thanks man, that would have been really hard to describe. What is that taste?",Ross,neutral,neutral,7,7
+74,"What? My hands are totally clean, I just gave the duck a bath.",Joey,neutral,neutral,7,8
+75,"Oh, Bob, he was nothing compared to you. I had to bite my lip to keep from screaming your name.",Jade,sadness,negative,8,0
+76,"Well, that makes me feel so good.",Chandler,joy,positive,8,1
+77,It was just so awkward and bumpy.,Jade,neutral,neutral,8,2
+78,Bumpy?,Ross,surprise,negative,8,3
+79,"Well, maybe he had some kind of uh, new, cool style, that you're not familiar with.",Chandler,neutral,neutral,8,4
+80,And uh maybe you have to get used to it.,Chandler,neutral,neutral,8,5
+81,"Well there really wasn't much time to get used to it, you know what I mean?",Jade,joy,positive,8,6
+82,Coming through!  Oh! Coming through!  Oh! Hello! Hi!  No! Right! Coming through!,Phoebe,fear,negative,9,0
+83,"Oh well, it?s not so bad.",Monica,neutral,neutral,9,1
+84,"Yeah, most of the damage is pretty mostly contained in the bedrooms.",Fireman #1,sadness,negative,9,2
+85,Oh!,Phoebe,surprise,negative,9,3
+86,My God!,Rachel,surprise,negative,9,4
+87,"Hey buddy, do you think I can borrow your uniform this Thursday?",Joey,neutral,neutral,9,5
+88,Excuse me?,Fireman #1,surprise,positive,9,6
+89,Joey! He?s working!  You would look,Monica,anger,negative,9,7
+90,"Oh, how bad is it?",Joey,sadness,negative,9,8
+91,"Oh, it?s bad. It?s really bad. The only thing in there that isn?t burned is an ass. Which I do",Phoebe,sadness,negative,9,9
+92,How?s your room Rach?,Chandler,neutral,neutral,9,10
+93,Everything?s ruined. My bed. My clothes. Look at my favorite blue sweater.,Rachel,sadness,negative,9,11
+94,Isn?t that mine?,Monica,neutral,neutral,9,12
+95,Fine! I?m sorry for your loss!,Rachel,anger,negative,9,13
+96,"So uh, you?re not gonna be able to live here for a while, you ladies have a place to stay?",Fireman #1,neutral,neutral,9,14
+97,"Wow! Oh-okay, look pal, I am",Rachel,joy,positive,9,15
+98,"Yes, they can stay with us.",Monica,neutral,neutral,9,16
+99,Have you figured out what started the fire Mr. Fireman?,Chandler,neutral,neutral,9,17
+100,There?s just so much pressure.,Joey,anger,negative,10,0
+101,"I mean no offense, but what you guys do is very different.",Joey,neutral,neutral,10,1
+102,I don?t know if you?d understand.,Joey,neutral,neutral,10,2
+103,"Yeah, none of us have to deal with pressure at our jobs.",Ross,neutral,neutral,10,3

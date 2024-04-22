@@ -1,0 +1,114 @@
+Sr No.,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID
+1,also I was the point person on my company?s transition from the KL-5 to GR-6 system.,Chandler,neutral,neutral,0,0
+2,You must?ve had your hands full.,The Interviewer,neutral,neutral,0,1
+3,That I did. That I did.,Chandler,neutral,neutral,0,2
+4,So let?s talk a little bit about your duties.,The Interviewer,neutral,neutral,0,3
+5,My duties?  All right.,Chandler,surprise,positive,0,4
+6,"Now you?ll be heading a whole division, so you?ll have a lot of duties.",The Interviewer,neutral,neutral,0,5
+7,I see.,Chandler,neutral,neutral,0,6
+8,But there?ll be perhaps 30 people under you so you can dump a certain amount on them.,The Interviewer,neutral,neutral,0,7
+9,Good to know.,Chandler,neutral,neutral,0,8
+10,We can go into detail,The Interviewer,neutral,neutral,0,9
+11,No don?t I beg of you!,Chandler,fear,negative,0,10
+12,"All right then, we?ll have a definite answer for you on Monday, but I think I can say with some confidence, you?ll fit in well here.",The Interviewer,neutral,neutral,0,11
+13,Really?!,Chandler,surprise,positive,0,12
+14,Absolutely.  You can relax,The Interviewer,neutral,neutral,0,13
+15,But then who? The waitress I went out with last month?,Joey,surprise,negative,1,0
+16,You know? Forget it!,Rachel,sadness,negative,1,1
+17,"No-no-no-no, no! Who, who were you talking about?",Joey,surprise,negative,1,2
+18,"No, I-I-I-I don't, I actually don't know",Rachel,fear,negative,1,3
+19,Ok!,Joey,neutral,neutral,1,4
+20,"All right, well...",Joey,neutral,neutral,1,5
+23,"Yeah, sure!",Rachel,neutral,neutral,1,8
+24,"Hey, Mon.",Chandler,neutral,neutral,2,0
+25,Hey-hey-hey. You wanna hear something that sucks.,Monica,neutral,neutral,2,1
+26,Do I ever.,Chandler,joy,positive,2,2
+27,Chris says they?re closing down the bar.,Monica,sadness,negative,2,3
+28,No way!,Chandler,surprise,negative,2,4
+29,"Yeah, apparently they?re turning it into some kinda coffee place.",Monica,neutral,neutral,2,5
+30,Just coffee! Where are we gonna hang out now?,Chandler,disgust,negative,2,6
+31,Got me.,Monica,sadness,negative,2,7
+32,Can I get a beer.,Chandler,neutral,neutral,2,8
+33,"Hey, did you pick a roommate?",Monica,neutral,neutral,2,9
+34,You betcha!,Chandler,joy,positive,2,10
+35,Is it the Italian guy?,Monica,neutral,neutral,2,11
+36,"Um-mm, yeah right!",Chandler,joy,positive,2,12
+37,"Oh my God, oh my God! Poor Monica!",Phoebe,surprise,negative,3,0
+38,"What, what, what?!",Chandler,surprise,negative,3,1
+39,What?!,Phoebe,surprise,negative,3,2
+40,He was with her when he wrote this poem.,Phoebe,neutral,neutral,3,3
+41,"Look,  'My vessel so empty with nothing inside.",Phoebe,neutral,neutral,3,4
+42,"Now that I've touched you, you seem emptier still.'",Phoebe,neutral,neutral,3,5
+43,"He thinks Monica is empty, she is the empty vase!",Phoebe,surprise,negative,3,6
+45,"Oh, totally. Oh, God, oh, she seemed so happy too.",Phoebe,sadness,negative,3,8
+46,Done.,Joey,neutral,neutral,3,9
+47,Hey!,Rachel,surprise,positive,4,0
+48,Hi!,Ross,joy,positive,4,1
+49,What are you doing here?,Rachel,surprise,positive,4,2
+50,"Ah y'know, this building is on my paper route so I...",Ross,neutral,neutral,4,3
+51,Oh.,Rachel,neutral,neutral,4,4
+52,Hi.,Ross,neutral,neutral,4,5
+53,Hi.,Rachel,neutral,neutral,4,6
+54,How?d did it go?,Ross,neutral,neutral,4,7
+55,"Oh well, the woman I interviewed with was pretty tough, but y'know thank God Mark coached me, because once I started talking about the fall line, she got all happy and wouldn?t shut up.",Rachel,joy,positive,4,8
+56,I?m so proud of you.,Ross,joy,positive,4,9
+57,Me too!,Rachel,joy,positive,4,10
+58,"Listen, I?m ah, I?m sorry I?ve been so crazy and jealous and, it?s just that I like you a lot, so...",Ross,sadness,negative,4,11
+59,I know.,Rachel,neutral,neutral,4,12
+60,Yeah.,Ross,neutral,neutral,4,13
+61,Yeah.,Rachel,neutral,neutral,4,14
+62,Ameri-can.,Phoebe,neutral,neutral,5,0
+63,Ameri-ccan.,Joey,neutral,neutral,5,1
+64,Ameri-can. Y'know it?s a,Phoebe,neutral,neutral,5,2
+65,Everybody!!,Sergei,surprise,positive,5,3
+66,Good job Joe! Well done! Top notch!,Chandler,joy,positive,6,0
+67,You liked it? You really liked it?,Joey,surprise,positive,6,1
+68,"Oh-ho-ho, yeah!",Chandler,joy,positive,6,2
+69,Which part exactly?,Joey,neutral,neutral,6,3
+70,The whole thing! Can we go?,Chandler,neutral,neutral,6,4
+71,"Oh no-no-no, give me some specifics.",Joey,anger,negative,6,5
+72,"I love the specifics, the specifics were the best part!",Chandler,joy,positive,6,6
+73,"Hey, what about the scene with the kangaroo? Did-did you like that part?",Joey,neutral,neutral,6,7
+74,I was surprised to see a kangaroo in a World War I epic.,Chandler,surprise,negative,6,8
+75,You fell asleep!!,Joey,anger,negative,6,9
+76,There was no kangaroo!,Joey,anger,negative,6,10
+77,They didn?t take any of my suggestions!,Joey,anger,negative,6,11
+78,That?s for coming buddy.,Joey,neutral,neutral,6,12
+79,I?ll see you later.,Joey,neutral,neutral,6,13
+80,Don?t go!,Chandler,sadness,negative,6,14
+81,I?m sorry.,Chandler,sadness,negative,6,15
+82,I?m so sorry!,Chandler,sadness,negative,6,16
+83,Look!,Chandler,surprise,negative,6,17
+84,This guy fell asleep!,Chandler,anger,negative,6,18
+85,He fell asleep too!,Chandler,anger,negative,6,19
+86,Be mad at him!,Chandler,anger,negative,6,20
+87,"Or, call an ambulance.",Chandler,anger,negative,6,21
+88,"Okay, look, I think we have to tell Rachel she messed up her dessert.",Joey,neutral,neutral,7,0
+89,"What?! What is with everybody? It?s Thanksgiving, not...Truth-Day!",Ross,anger,negative,7,1
+90,"Yes, and it is my dying wish to have that ring.",Phoebe,neutral,neutral,8,0
+91,"See, if I?m not buried with that ring then my spirit is going to wander the nether world for all eternity",Phoebe,neutral,neutral,8,1
+92,"Okay, that?s enough honey!",Chandler,neutral,neutral,8,2
+93,I don?t know.  Let me see the ring.,Customer,neutral,neutral,8,3
+94,"Great! Okay, here.",Chandler,joy,positive,8,4
+95,All right.,Customer,neutral,neutral,8,5
+96,Thank you. Thank you. Thank you!  And,Chandler,joy,positive,8,6
+97,What've you been up to?,Chandler,neutral,neutral,9,0
+98,"Oh, you know, the usual, teaching aerobics, partying way too much.",Jade,neutral,neutral,9,1
+99,"Oh, and in case you were wondering, those are my legs on the new James Bond poster.",Jade,neutral,neutral,9,2
+100,Can you hold on a moment? I have another call.  I love her.,Chandler,joy,positive,9,3
+101,I know.,Ross,neutral,neutral,9,4
+102,I'm back.,Chandler,neutral,neutral,9,5
+103,"So, are we gonna get together or what?",Jade,neutral,neutral,9,6
+104,"Um, absolutely. Uh, how 'bout tomorrow afternoon? Do you know uh, Central Perk in the Village, say, five-ish?",Chandler,neutral,neutral,9,7
+105,"Great, I'll see you then.",Jade,neutral,neutral,9,8
+106,Ok.  Ok. Having a phone has finally paid off.,Chandler,joy,positive,9,9
+107,"Even though you do do a good Bob impression, I'm thinkin' when she sees you tomorow, she's probably gonna realize, ""Hey, you're not Bob.""",Ross,neutral,neutral,9,10
+108,"I'm hoping that when Bob doesn't show up, she will seek comfort in the open arms of the wry stranger at the next table.",Chandler,neutral,neutral,9,11
+109,Oh my god. You are pure evil.,Ross,disgust,negative,9,12
+110,"Ok, pure evil , horny and alone . I've done this",Chandler,anger,negative,9,13
+111,Nobody!,Phoebe,anger,negative,10,0
+112,Nobody respects the bucket!,Phoebe,anger,negative,10,1
+113,You wouldn't believe what people put in here!,Phoebe,anger,negative,10,2
+114,Look!,Phoebe,anger,negative,10,3
+115,"Okay, does this look like a garbage can to you?",Phoebe,anger,negative,10,4
+116,No.,Monica,neutral,neutral,10,5
